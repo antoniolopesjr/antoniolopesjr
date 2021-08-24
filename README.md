@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=antoniolopesjr)
+
+
+![Profile](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=antoniolopesjr)
