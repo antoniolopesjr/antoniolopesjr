@@ -18,7 +18,12 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-<h4 align="left">Sou Desenvolvedor Front-end apto a trabalhar bem sob pressão e com ótima capacidade de raciocínio logico, boa capacidade de comunicação e atenção aos detalhes.<br><br>Atualmente trabalho como Desenvolvedor Front-end, utilizando as seguintes tecnologias: HTML, CSS, Sass, Javascript, Ember.js, Vue.js, Vuex, Vue-router, jQuery e Bootstrap.<br><br>https://profile.codersrank.io/user/antoniolopesjr/</h4>
+<h4 align="left">With more than 4 years of experience in the development of attractive and intuitive web applications, I am passionate about technologies. I've worked on several projects with the following technologies: Vue.js, Ember.js, Javascript, Typescript, Bootstrap, HTML, CSS, Sass, jQuery, CSS3, Vuex and Vuetify.<br><br>
+
+During my career, I had the opportunity to work on several projects in the areas of Fintech, Digital/Affiliate Marketing, E-commerce, Legal, Big tech and group management; which allowed me to acquire a wide range of skills and knowledge. I'm a proactive and creative professional, always looking for ways to make the applications I work with look and feel even better. If you're looking for someone to bring your web project to life, I'm ready to help!<br><br>
+
+Graduated in Computer Engineering from the State University of Minas Gerais UEMG.
+Knowledge in implementing technology projects.<br><br>https://profile.codersrank.io/user/antoniolopesjr/</h4>
 
 ###
 
